@@ -22,5 +22,11 @@
   "practice/sql/medium/medium-join-001/solution.sql": "4fd83a9432bfdd6f2415607cc28372c4448cc344e42145210652e85de6841c1f",
   "practice/sql/medium/medium-case-110/solution.sql": "43cd15678f7ccfe22884cb7ab7ba8cd243b52a31e7a91582d81cc675321d0a31",
   "practice/sql/medium/medium-case-124/solution.sql": "df3ed0772dfd722b1ec3dc95e1e95fd6f1038dc437c8d8fe5752e4e8d024a036",
-  "practice/sql/medium/medium-leftjoin-031/solution.sql": "fe455efda058e80070cff1be1d09f447a9d1f9701d133ac0513ae6b85cb56454"
+  "practice/sql/medium/medium-leftjoin-031/solution.sql": "fe455efda058e80070cff1be1d09f447a9d1f9701d133ac0513ae6b85cb56454",
+  "practice/sql/easy/easy-select-005/solution.sql": "e545f9e595086279308f4225e430dd60c60384ad7daab3428921fb459fa809b1",
+  "practice/sql/medium/medium-winagg-010/solution.sql": "a2218803d361aaa82bad8b2b63c306df2c60809a7542877c662a78fd2da54484",
+  "practice/sql/medium/medium-monetary-005/solution.sql": "dbffe2dea42f5bfc1d0606d7a6eb3386acf91befb63069c3c40c5e935777d7fc",
+  "practice/sql/medium/medium-join-155/solution.sql": "b03d2f3a5334212cee127c5f25ced72096dbf092dfa932681af9235771e6a1ea",
+  "practice/sql/medium/medium-having-019/solution.sql": "794d25fa80bb4b8c7484e47406ac1a5a877cfebb5f089184336897be580a521e",
+  "practice/sql/medium/medium-case-160/solution.sql": "868bf01100c3b0d221e406fbc2e61e4b643974b6ed2240711f3465ec49007bcb"
 }
