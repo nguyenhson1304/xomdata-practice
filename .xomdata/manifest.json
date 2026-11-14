@@ -28,5 +28,10 @@
   "practice/sql/medium/medium-monetary-005/solution.sql": "dbffe2dea42f5bfc1d0606d7a6eb3386acf91befb63069c3c40c5e935777d7fc",
   "practice/sql/medium/medium-join-155/solution.sql": "b03d2f3a5334212cee127c5f25ced72096dbf092dfa932681af9235771e6a1ea",
   "practice/sql/medium/medium-having-019/solution.sql": "794d25fa80bb4b8c7484e47406ac1a5a877cfebb5f089184336897be580a521e",
-  "practice/sql/medium/medium-case-160/solution.sql": "868bf01100c3b0d221e406fbc2e61e4b643974b6ed2240711f3465ec49007bcb"
+  "practice/sql/medium/medium-case-160/solution.sql": "868bf01100c3b0d221e406fbc2e61e4b643974b6ed2240711f3465ec49007bcb",
+  "practice/sql/medium/medium-subquery-160/solution.sql": "4ce99412386bfd6d241bc8b3e8ca2b024fb6b5dae03c062b1855f7d0202d82bc",
+  "practice/sql/medium/medium-churn-007/solution.sql": "8a4fb3e37aa18ec121e41a79819bbfdc853f3bdc51e4ac82c0f1c80aac73943d",
+  "practice/sql/medium/medium-casewhen-047/solution.sql": "17af4a1186e85789b1c30adaa896abbf4459cd7e559929c0a6f763faaa433f56",
+  "practice/sql/medium/medium-having-128/solution.sql": "4399a1d16d56786b248c2e90fc7dd331fd9eab729fcf114fe5c81a5754d6b341",
+  "practice/sql/medium/medium-join-076/solution.sql": "79f21be21a7d3ebef0cd0812b49dfbbbcbdeaa65c0db6b44c11108394c4ab270"
 }
