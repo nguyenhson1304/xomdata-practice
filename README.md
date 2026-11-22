@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**35** problems solved on [Xom Data](https://xomdata.com/practice).
+**42** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 20 | 15 | 0 | 0 | 35 |
+| SQL | 20 | 22 | 0 | 0 | 42 |
 
 **Recently solved**
 
+- [medium-join-014](https://xomdata.com/practice/medium-join-014) · Medium · 2026-11-22
+- [medium-join-029](https://xomdata.com/practice/medium-join-029) · Medium · 2026-11-21
+- [medium-subquery-110](https://xomdata.com/practice/medium-subquery-110) · Medium · 2026-11-21
+- [medium-groupby-080](https://xomdata.com/practice/medium-groupby-080) · Medium · 2026-11-20
+- [medium-having-187](https://xomdata.com/practice/medium-having-187) · Medium · 2026-11-19
+- [medium-having-162](https://xomdata.com/practice/medium-having-162) · Medium · 2026-11-16
+- [medium-groupby-097](https://xomdata.com/practice/medium-groupby-097) · Medium · 2026-11-15
 - [medium-join-076](https://xomdata.com/practice/medium-join-076) · Medium · 2026-11-14
 - [medium-having-128](https://xomdata.com/practice/medium-having-128) · Medium · 2026-11-13
 - [medium-casewhen-047](https://xomdata.com/practice/medium-casewhen-047) · Medium · 2026-11-12
-- [medium-churn-007](https://xomdata.com/practice/medium-churn-007) · Medium · 2026-11-11
-- [medium-subquery-160](https://xomdata.com/practice/medium-subquery-160) · Medium · 2026-11-10
-- [medium-case-160](https://xomdata.com/practice/medium-case-160) · Medium · 2026-11-09
-- [medium-having-019](https://xomdata.com/practice/medium-having-019) · Medium · 2026-11-06
-- [medium-join-155](https://xomdata.com/practice/medium-join-155) · Medium · 2026-11-04
-- [medium-monetary-005](https://xomdata.com/practice/medium-monetary-005) · Medium · 2026-11-03
-- [medium-winagg-010](https://xomdata.com/practice/medium-winagg-010) · Medium · 2026-11-02
 
-_Synced 35 solutions · last update 2026-11-14_
+_Synced 42 solutions · last update 2026-11-22_
 
 <!-- xomdata:stats:end -->
 

@@ -33,5 +33,12 @@
   "practice/sql/medium/medium-churn-007/solution.sql": "8a4fb3e37aa18ec121e41a79819bbfdc853f3bdc51e4ac82c0f1c80aac73943d",
   "practice/sql/medium/medium-casewhen-047/solution.sql": "17af4a1186e85789b1c30adaa896abbf4459cd7e559929c0a6f763faaa433f56",
   "practice/sql/medium/medium-having-128/solution.sql": "4399a1d16d56786b248c2e90fc7dd331fd9eab729fcf114fe5c81a5754d6b341",
-  "practice/sql/medium/medium-join-076/solution.sql": "79f21be21a7d3ebef0cd0812b49dfbbbcbdeaa65c0db6b44c11108394c4ab270"
+  "practice/sql/medium/medium-join-076/solution.sql": "79f21be21a7d3ebef0cd0812b49dfbbbcbdeaa65c0db6b44c11108394c4ab270",
+  "practice/sql/medium/medium-groupby-097/solution.sql": "cae953eeba77e4ec969b3d002feff60a2717f5790b81f993abf172110e90f2cb",
+  "practice/sql/medium/medium-having-162/solution.sql": "d58f581e76b3e8f9cb2648546181d3183d2f7105dbd2ee4840beed5d1c1af4f5",
+  "practice/sql/medium/medium-having-187/solution.sql": "bf6b261b53feb6bce883091100662eba8d944ea7b4ec97c61fecceb7ed804fe9",
+  "practice/sql/medium/medium-groupby-080/solution.sql": "d9a50e80d223f6c9b64ec90da3641c04b0273be87d623571820502266c3e4365",
+  "practice/sql/medium/medium-subquery-110/solution.sql": "fbf56a7c6ea3b1babefa55fd97299e248be86925185cf6af4d6d0e8b5a663578",
+  "practice/sql/medium/medium-join-029/solution.sql": "4f2c5cb43af898c0ae4f615a3b5790bf635483bf39cf97c153412d59a21e65b7",
+  "practice/sql/medium/medium-join-014/solution.sql": "81732a6b33caf9c2ba13dcf527972c0728b8fbf633240c5fc4ed618ee39e6191"
 }
